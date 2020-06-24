@@ -5,9 +5,9 @@ Problem Statement Given by : CVR College Of Engineering,Vastunagar
 Execute--> index.php
 
 Screenshot
-![Screenshot is here](IMG_20200219_113837.jpg)
+![Screenshot is here](Screenshot (128).png)
 
 
- <a href="https://akshit-pulluri.github.io/mini-project-captcha-alternate-solution-for-visually-impaired/">index.html</a> is just an sample view  ..   
+ <a href="https://github.com/akshit-pulluri/mini-project-captcha-alternate-solution-for-visually-impaired">index.html</a> is just an sample view  ..   
  
- sample view-->https://akshit-pulluri.github.io/mini-project-captcha-alternate-solution-for-visually-impaired/
+ sample view-->https://github.com/akshit-pulluri/mini-project-captcha-alternate-solution-for-visually-impaired
